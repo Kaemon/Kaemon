@@ -41,8 +41,9 @@ I'm a university student with hands-on experience across a wide range of program
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Kaemon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaemon&layout=compact&theme=tokyonight&hide_border=true" />
+![Kaemon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kaemon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaemon&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -52,21 +53,12 @@ I'm a university student with hands-on experience across a wide range of program
 
 > ⚠️ *Pinning my best work here — check back soon!*
 
-<!-- 
-Use GitHub's "Pin repositories" feature to showcase up to 6 projects.
-Tips for each repo:
-- Add a clear description in the About section
-- Add relevant Topics/tags
-- Make sure each has a good README with screenshots
--->
-
 ---
 
 ## 📬 Get in Touch
 
 - 📧 Email: Kaemon1017@gmail.com
-- 💼 LinkedIn: www.linkedin.com/in/kaemon-ng-366a32313
-
+- 💼 LinkedIn: [kaemon-ng](https://www.linkedin.com/in/kaemon-ng-366a32313)
 
 ---
 

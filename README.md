@@ -4,8 +4,8 @@
 
 **Computer Science Student** · Exploring the world of software, one line at a time.
 
-[![GitHub followers](https://img.shields.io/github/followers/KaemonNg?style=flat&color=0969da&labelColor=1a1a2e&label=Followers)](https://github.com/KaemonNg)
-[![Profile Views](https://komarev.com/ghpvc/?username=KaemonNg&color=0969da&style=flat&label=Profile+Views)](https://github.com/KaemonNg)
+[![GitHub followers](https://img.shields.io/github/followers/Kaemon?style=flat&color=0969da&labelColor=1a1a2e&label=Followers)](https://github.com/Kaemon)
+[![Profile Views](https://komarev.com/ghpvc/?username=Kaemon&color=0969da&style=flat&label=Profile+Views)](https://github.com/Kaemon)
 
 </div>
 
@@ -41,8 +41,8 @@ I'm a university student with hands-on experience across a wide range of program
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=KaemonNg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaemonNg&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Kaemon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaemon&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -64,7 +64,7 @@ Tips for each repo:
 
 ## 📬 Get in Touch
 
-- 📧 Email: kaemonng1017@gmail.com
+- 📧 Email: Kaemon1017@gmail.com
 - 💼 LinkedIn: www.linkedin.com/in/kaemon-ng-366a32313
 
 

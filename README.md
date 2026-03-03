@@ -1,16 +1,77 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Kaemon/Kaemon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Kaemon Ng 👋
 
-Here are some ideas to get you started:
+**Computer Science Student** · Exploring the world of software, one line at a time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[![GitHub followers](https://img.shields.io/github/followers/KaemonNg?style=flat&color=0969da&labelColor=1a1a2e&label=Followers)](https://github.com/KaemonNg)
+[![Profile Views](https://komarev.com/ghpvc/?username=KaemonNg&color=0969da&style=flat&label=Profile+Views)](https://github.com/KaemonNg)
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a university student with hands-on experience across a wide range of programming languages and paradigms — from low-level assembly to object-oriented systems to data analysis.
+
+- 🎓 Currently studying Computer Science in Artificial Intelligence
+- 🔭 Building projects to sharpen my skills and explore new domains
+- 🌱 Always learning — currently deepening my knowledge in software development
+- 💡 I enjoy solving problems from the ground up
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages I've worked with:**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![NASM](https://img.shields.io/badge/NASM_Assembly-525252?style=flat-square&logo=assemblyscript&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=KaemonNg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaemonNg&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 📌 Featured Projects
+
+> ⚠️ *Pinning my best work here — check back soon!*
+
+<!-- 
+Use GitHub's "Pin repositories" feature to showcase up to 6 projects.
+Tips for each repo:
+- Add a clear description in the About section
+- Add relevant Topics/tags
+- Make sure each has a good README with screenshots
 -->
+
+---
+
+## 📬 Get in Touch
+
+- 📧 Email: kaemonng1017@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/kaemon-ng-366a32313
+
+
+---
+
+<div align="center">
+
+*"First, solve the problem. Then, write the code."*
+
+</div>

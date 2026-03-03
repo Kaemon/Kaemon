@@ -41,9 +41,9 @@ I'm a university student with hands-on experience across a wide range of program
 
 <div align="center">
 
-![Kaemon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kaemon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Kaemon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kaemon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaemon&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaemon&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
 </div>
 

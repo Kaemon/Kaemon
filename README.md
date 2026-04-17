@@ -40,7 +40,7 @@ I'm a university student with hands-on experience across a wide range of program
 
 ## 📬 Get in Touch
 
-- 📧 Email: Kaemon1017@gmail.com
+- 📧 Email: kaemonng1017@gmail.com
 - 💼 LinkedIn: [kaemon-ng](https://www.linkedin.com/in/kaemon-ng-366a32313)
 
 ---
